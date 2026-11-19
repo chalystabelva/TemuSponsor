@@ -132,7 +132,7 @@ function renderShell() {
     <aside class="sidebar" id="sidebar">
       <div class="sidebar-brand">
         <div class="sidebar-logo">
-          <svg width="28" height="28" viewBox="0 0 28 28" fill="none"><rect width="28" height="28" rx="8" fill="#F4A340"/><path d="M7 14 Q14 6 21 14 Q14 22 7 14Z" fill="#173B67"/><circle cx="14" cy="14" r="3" fill="#fff"/></svg>
+          <img src="assets/logos/temusponsor.png" alt="TemuSponsor" class="sidebar-logo-img">
         </div>
         <span class="sidebar-brand-name">TemuSponsor</span>
         <button class="sidebar-close btn-icon" id="sidebarClose"><i data-lucide="x" style="width:18px;height:18px;"></i></button>
@@ -237,7 +237,7 @@ function renderLandingPage() {
     <nav class="landing-nav" id="landingNav">
       <div class="landing-nav-inner">
         <div class="landing-brand" onclick="navigate('landing')" style="cursor:pointer;">
-          <svg width="32" height="32" viewBox="0 0 28 28" fill="none"><rect width="28" height="28" rx="8" fill="#F4A340"/><path d="M7 14 Q14 6 21 14 Q14 22 7 14Z" fill="#173B67"/><circle cx="14" cy="14" r="3" fill="#fff"/></svg>
+          <img src="assets/logos/temusponsor.png" alt="TemuSponsor" class="landing-logo-img">
           <span>TemuSponsor</span>
         </div>
         <div class="landing-nav-links" id="landingNavLinks">
@@ -449,7 +449,7 @@ function renderLandingPage() {
     <footer class="landing-footer">
       <div class="footer-inner">
         <div class="footer-brand">
-          <svg width="24" height="24" viewBox="0 0 28 28" fill="none"><rect width="28" height="28" rx="8" fill="#F4A340"/><path d="M7 14 Q14 6 21 14 Q14 22 7 14Z" fill="#173B67"/><circle cx="14" cy="14" r="3" fill="#fff"/></svg>
+          <img src="assets/logos/temusponsor.png" alt="TemuSponsor" class="footer-logo-img">
           <span>TemuSponsor</span>
         </div>
         <p class="footer-desc">Platform pencarian calon sponsor untuk panitia acara, OSIS, organisasi mahasiswa, dan komunitas.</p>
